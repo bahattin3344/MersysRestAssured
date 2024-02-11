@@ -165,6 +165,6 @@ If you have any questions, feedback or support requests regarding my project, pl
 --------------------------------
  Github = https://github.com/bahattin3344
  -------------------------------
- E-Mail = denizbahattin561@gmail.com
+ E-Mail = bahittinaydin98@gmail.com
 --------------------------------
 Feel free to contact us, we welcome any questions and feedback you may have. We are here to contribute to the development of our project or solve any problem! 👋
